@@ -10,5 +10,6 @@ namespace ConsoleApp1
     {
         string Class_name;
         int Age;
+        int Score;
     }
 }
